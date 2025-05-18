@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephenpiment
-- 👀 I’m interested in Bitcoin, smart contracts on Layer 1 blockchains, machine learning.
-- 🌱 I’m currently learning cybersecurity and analytics for crypto.
+- 👀 I’m interested in multi-agent systems for enterprise workflows using generative AI.
+- 🌱 I’m currently learning about SOTA applications of LLMs.
 - 📫 Reach me at https://www.linkedin.com/in/stephenpimentel/.
 
 <!---
